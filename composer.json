@@ -2,7 +2,7 @@
   "name": "omegacms/serviceprovider",
   "type": "package",
   "description": "Omega CMS Service Package",
-  "keywords": [ "omegacms", "framework", "service-provider" ],
+  "keywords": [ "omegacms", "framework", "serviceprovider" ],
   "homepage": "https://omegacms.github.io",
   "license": "GPL-3.0",
   "authors": [
