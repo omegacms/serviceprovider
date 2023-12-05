@@ -1,5 +1,5 @@
 {
-  "name": "omegacms/service-provider",
+  "name": "omegacms/serviceprovider",
   "type": "package",
   "description": "Omega CMS Service Package",
   "keywords": [ "omegacms", "framework", "service-provider" ],
