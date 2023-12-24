@@ -68,11 +68,7 @@ abstract class AbstractServiceProvider
         } );
     }
 
-    /**
-     * Get the service name.
-     *
-     * @return string Return the service name.
-     */
+
 
     /**
      * Get the service name.
